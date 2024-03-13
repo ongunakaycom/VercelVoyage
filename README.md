@@ -1,7 +1,3 @@
-Certainly! Below is a suggested README file for your "VercelVoyage" GitHub portfolio project:
-
----
-
 # VercelVoyage
 
 Welcome to VercelVoyage! This project is a beginner learning project developed using Next.js and deployed on Vercel. It's designed to serve as a portfolio showcasing my journey into web development with Next.js and Vercel.
